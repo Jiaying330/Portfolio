@@ -1,84 +1,91 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/projects/break_alert.png",
+            "title": "Break Alert",
+            "bodyText": "- A Chrome extension toolkit containing a scheduler, to-do list, and improved bookmark system, to improve users' productivity and time management.\n -  Identified application's functionalities and designed frontend UI for each took using **JavaScript** and **HTML**.\n - Implemented the scheduler system and integrated other modules into the toolkit",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/Jiaying330/Break-Alert"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://chrome.google.com/webstore/detail/break-alert/bilocpkncpeojgehfelfaecabikkdolb"
                 }
             ],
             "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
+                "JavaScript",
+                "HTML",
+                "Chrome Extension"
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image" : "images/projects/loafing_time.png",
+            "title": "Loafing Time",
+            "bodyText": "- A relaxing game that simulates a real-world scenario for users to release anxiety after daily hardworking.\n - Designed game scenes and pixel characters using **Pixel Studio** and polished characters’ effect and animations in **Procreate**.\n - Constructed BGMs using **GarageBand**.\n - Implemented game functionalities and frontend UI using **Phasor 3**, **JavaScript** and **HTML**.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "href": "https://github.com/alickxie/Loafing-Time"
                 },
                 {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://alickxie.github.io/Loafing-Time/"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "Pixel Studio",
+                "Procreate",
+                "GarageBand",
+                "Phasor 3",
+                "JavaScript",
+                "HTML"
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "image" : "images/projects/upside_down.png",
+            "title": "Upside Down",
+            "bodyText": "- A gravity-reversed game for users to jump between two zones to pass each level with rewards.\n - Implemented game interactions using **JavaScript** and **TypeScript** and created Game UI using **crisp-game-lib**.\n - Option to put on Vibrate instead of Silent.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "href": "https://github.com/Jiaying330/Upside_Down"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://jiaying330.github.io/Upside_Down/index.html?upside_down/"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
+                "JavaScript",
+                "TypeScript",
+                "crisp-game-lib"
             ]
         },
         {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "image" : "images/projects/one_touch_rpg.gif",
+            "title": "One Touch RPG",
+            "bodyText": "- An RPG game involving actions including slashing, stabbing, and guarding for users to enjoy level-based adventures.\n - Identified game scenes, components, interaction, and bonus rules using **UML**; adopted rapid and mechanic-focused prototyping strategy to implement functionalities using **JavaScript** (**crisp-game-lib**) and **TypeScrip**.\n",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                    "href": "https://github.com/NathanWang00/One-Touch-RPG"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://nathanwang00.github.io/One-Touch-RPG/?onetouchrpg/"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
+                "UML",
+                "JavaScript",
+                "TypeScript",
+                "crisp-game-lib"
             ]
         },
         {
-            "title": "Feed List App",
+            "title": "RarioWare - Bubble Fly ",
             "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
             "links": [
                 {

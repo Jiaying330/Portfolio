@@ -6,13 +6,16 @@
             "cardSubtitle":"University of California, Santa Cruz",
             "cardDetailedText": "GPA - 3.92/4.0",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/ucsc.jpg"
             }
         },
         {
             "title": "Sep 2022 - Jun 2024",
             "cardTitle": "MSE. System Engineering",
-            "cardSubtitle":"University of Pennsylvania"
+            "cardSubtitle":"University of Pennsylvania",
+            "icon" : {
+                "src": "images/education/upenn.png"
+            }
         }
     ]
 }
