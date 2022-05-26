@@ -3,7 +3,7 @@
         {
             "image" : "images/projects/break_alert.gif",
             "title": "Break Alert",
-            "bodyText": "- A Chrome extension toolkit containing a scheduler, to-do list, and improved bookmark system, to improve users' productivity and time management.\n -  Identified application's functionalities and designed frontend UI for each took using **JavaScript** and **HTML**.\n - Implemented the scheduler system and integrated other modules into the toolkit",
+            "bodyText": "- A Chrome extension toolkit containing a scheduler, to-do list, and improved bookmark system, to improve users' productivity and time management.\n -  Identified application's functionalities and designed frontend UI for each took using **JavaScript** and **HTML**.\n - Implemented the scheduler system and integrated other modules into the toolkit.",
             "links": [
                 {
                     "text": "GitHub",
@@ -85,52 +85,55 @@
             ]
         },
         {
-            "title": "RarioWare - Bubble Fly ",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
+            "image" : "images/projects/yardsale.gif",
+            "title": "Yardsale",
+            "bodyText": "-  An RPG narrative-based game about yardsale.\n - Create art assets and build games using **bitsy**.\n - Original script.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
+                    "text": "Playthrough",
+                    "href": "https://drive.google.com/drive/folders/1kak6tIfbmgitzc49kU7hHJlNjIw-TyFW?usp=sharing"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://jiaying330.itch.io/yardsale"
                 }
             ],
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
+                "bitsy",
+                "script writing"
             ]
         },
         {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
+            "image" : "images/projects/get_out_of_the_box.gif",
+            "title": "GetOutOfTheBox",
+            "bodyText": "-  A platform game where the player is stuck inside a large square that is filled with moving and unmoving geometric blocks and cubes.\n - Implemented game using **Unity**.\n - Create audio animated game objects and functionalities using **C#**.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
+                    "text": "Github",
+                    "href": "https://github.com/Jiaying330/DreamyGame"
+                },
+                {
+                    "text": "Playthrough",
+                    "href": "https://drive.google.com/drive/folders/1V2dtGTJ9SjZ-M-fXQSxDQ4UeK1oIAnDv?usp=sharing"
                 }
             ],
             "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
+                "Unity",
+                "C#"
             ]
         },
         {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "title": "Management Software",
+            "bodyText": "-  Developed staffing management system using **C++** for both the board and members for account management and event notification. \n - Designed data schema using **MySQL** and wrote configuration class for database connection with backend.\n",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                    "text": "Github",
+                    "href": "https://github.com/Jiaying330/Management-Software"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "C++",
+                "SQL"
             ]
         }
     ]
