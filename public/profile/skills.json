@@ -10,8 +10,16 @@
                     "title": "Java"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "icon": "images/skills/cs.png",
+                    "title": "C#"
+                },
+                {
+                    "icon": "images/skills/c++.png",
+                    "title": "C++"
+                },
+                {
+                    "icon": "images/skills/typescript.png",
+                    "title": "TypeScript"
                 },
                 {
                     "icon": "images/skills/js.png",
@@ -30,16 +38,20 @@
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/spring.png",
+                    "title": "Spring"
                 },
                 {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
+                    "icon": "images/skills/phaser3.png",
+                    "title": "Phaser3"
                 }
             ]
         },
@@ -47,16 +59,28 @@
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/unity.png",
+                    "title": "Unity"
+                },
+                {
+                    "icon": "images/skills/procreate.png",
+                    "title": "Procreate"
+                },
+                {
+                    "icon": "images/skills/ai.png",
+                    "title": "Adobe Illustrator"
+                },
+                {
+                    "icon": "images/skills/puredata.png",
+                    "title": "Pure Data"
+                },
+                {
+                    "icon": "images/skills/audacity.png",
+                    "title": "Audacity"
                 },
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
-                },
-                {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
                 }
             ]
     }

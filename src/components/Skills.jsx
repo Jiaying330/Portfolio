@@ -9,10 +9,10 @@ import FallbackSpinner from './FallbackSpinner';
 
 const styles = {
   iconStyle: {
-    height: 75,
+    // height: 75,
     width: 75,
-    margin: 10,
-    marginBottom: 0,
+    margin: 15,
+    marginBottom: 2,
   },
   introTextContainer: {
     whiteSpace: 'pre-wrap',
