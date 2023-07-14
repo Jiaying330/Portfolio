@@ -1,6 +1,22 @@
 {
     "projects" : [
         {
+            "image" : "images/projects/plot.png",
+            "title": "NeRF",
+            "bodyText": "- An implementationthat of Neural Radiance Field algorithm takes calibrated images as input and outputs a novel view of the scene.\n -  implemented functions to map continuous input coordinates into a higher dimensional space, calculate rays, sample points, and render a 3D scene using a NeRF MLP model. Achieved a PSNR of 25 after 3000 iterations for one image reconstruction.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Jiaying330/NeRF"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "PyTorch",
+                "Google Colab"
+            ]
+        },
+        {
             "image" : "images/projects/break_alert.gif",
             "title": "Break Alert",
             "bodyText": "- A Chrome extension toolkit containing a scheduler, to-do list, and improved bookmark system, to improve users' productivity and time management.\n -  Identified application's functionalities and designed frontend UI for each took using **JavaScript** and **HTML**.\n - Implemented the scheduler system and integrated other modules into the toolkit.",
