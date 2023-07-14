@@ -31,8 +31,8 @@ const styles = {
 };
 
 function Experience(props) {
-  const theme = useContext(ThemeContext);
   const { header } = props;
+  const theme = useContext(ThemeContext);
   const [data, setData] = useState(null);
 
   useEffect(() => {
