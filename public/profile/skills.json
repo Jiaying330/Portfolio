@@ -38,6 +38,10 @@
             "title": "Frameworks & Technologies",
             "items" : [
                 {
+                    "icon": "images/skills/pytorch.png",
+                    "title": "PyTorch"
+                },
+                {
                     "icon": "images/skills/spring.png",
                     "title": "Spring"
                 },
